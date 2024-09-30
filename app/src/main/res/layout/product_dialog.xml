@@ -8,9 +8,9 @@
     <ImageView
         android:id="@+id/ivHeader"
         android:layout_width="match_parent"
-        android:layout_height="80dp"
+        android:layout_height="160dp"
         android:layout_marginTop="8dp"
-        android:contentDescription="Header"
+        android:contentDescription="@string/header"
         android:scaleType="fitCenter"
         app:srcCompat="@drawable/header" />
 
@@ -58,7 +58,7 @@
         app:boxCornerRadiusBottomStart="16dp"
         app:boxCornerRadiusTopEnd="16dp"
         app:boxCornerRadiusTopStart="16dp"
-        app:startIconDrawable="@drawable/ic_genre">
+        app:startIconDrawable="@drawable/ic_status">
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/tietStatus"
@@ -87,7 +87,7 @@
         app:boxCornerRadiusBottomStart="16dp"
         app:boxCornerRadiusTopEnd="16dp"
         app:boxCornerRadiusTopStart="16dp"
-        app:startIconDrawable="@drawable/ic_developer">
+        app:startIconDrawable="@drawable/ic_brand">
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/tietBrand"

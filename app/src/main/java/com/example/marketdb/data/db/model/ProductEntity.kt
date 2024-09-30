@@ -14,6 +14,6 @@ data class ProductEntity(
     var title: String,
     @ColumnInfo(name = "product_status")
     var status: String,
-    @ColumnInfo(name = "product_brand", defaultValue = "Desconocido")
+    @ColumnInfo(name = "product_brand")
     var brand: String
 )
