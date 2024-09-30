@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Market DB</string>
+    <string name="no_data">¡No hay registros!</string>
+    <string name="add_item">Agregar producto</string>
+    <string name="brand">Marca</string>
+    <string name="description">Imagen</string>
+    <string name="title">Título de producto</string>
+    <string name="status">Estado del producto</string>
+    <string name="confirm">Confirmación</string>
+    <string name="confirm_product">¿Realmente desea eliminar el producto %1$s?</string>
+    <string name="ok">Aceptar</string>
+    <string name="product_removed">Producto borrado exitosamente</string>
+    <string name="no">Cancelar</string>
+    <string name="delete_error">Error al borrar el producto</string>
+    <string name="update_error">Error al actualizar el producto</string>
+    <string name="update_success">Producto actualizado exitosamente</string>
+    <string name="save_error">Error al guardar el producto</string>
+    <string name="save_success">Producto guardado exitosamente</string>
+    <string name="product">Producto</string>
+</resources>
